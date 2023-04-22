@@ -17,4 +17,5 @@ Agile development and proper documentation paired with native Swift technologies
 A pre-existing history allows for completion of a database that compiles all Oscar winners and nominees. Easily completed within the time frame required.
 
 
-Current Progress as of Milestone 4: Updated Highlight Reel and new explainer page on Aspect Ratios with 21st century to be completed soon
+Current Progress as of Milestone 4: https://youtu.be/cN4B3sHqPiU
+Featuring an updated Highlight Reel, and a new explainer page on Aspect Ratios. 21st century titles to be completed soon.
